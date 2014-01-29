@@ -13,4 +13,4 @@ antonioj85 at gmail.com
 All documentation is available in the repository [Wikicode-Doc](https://www.github.com/asketsus/Wikicode-Doc), as well as the source of this documents.
 
 ###Installation
-This information is available into [User's Manual](https://github.com/asketsus/Wikicode-Doc/blob/master/Output/Manual%20de%20Usuario.pdf) - Chapter 2.1.5.2.
+This information is available into [User's Manual](https://github.com/asketsus/Wikicode-Doc/raw/master/Output/Manual%20de%20Usuario.pdf) - Chapter 2.1.5.2.
