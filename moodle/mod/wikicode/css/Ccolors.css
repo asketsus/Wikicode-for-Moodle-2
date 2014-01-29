@@ -1,0 +1,66 @@
+html {
+  cursor: text;
+}
+
+.editbox {
+  margin: .4em;
+  padding: 0;
+  font-family: monospace;
+  font-size: 10pt;
+  color: black;
+}
+
+pre.code, .editbox {
+  color: #666666;
+}
+
+.editbox p {
+  margin: 0;
+}
+
+span.c-comment {
+  color: #BB9977;
+}
+
+span.c-keyword {
+  font-weight: bold;
+  color: blue;
+}
+
+span.c-string {
+  color: #AA2222;
+}
+
+span.c-stdfunc {
+  font-weight: bold;
+  color: #077;
+}
+span.c-customfunc {
+  font-weight: bold;
+  color: #0AA;
+}
+
+span.c-identifier {
+  color: black;
+}
+
+span.c-number {
+  color: #3A3;
+}
+
+span.c-token {
+  color: #151;
+}
+
+span.c-error {
+  color: #FFF;
+  background-color: #F00;
+}
+
+span.c-define {
+  color: green;	
+}
+
+span.c-lock {
+  color: #DCDCDC;
+}
